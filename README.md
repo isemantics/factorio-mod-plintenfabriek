@@ -1,2 +1,3 @@
-# factorio-mod-plintenfabriek
-Plintenfabriek mod for Factorio
+Plintenfabriek
+===
+#### Current version 0.0.1

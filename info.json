@@ -1,11 +1,11 @@
 {
 	"name": "Plintenfabriek",
 	"version": "0.0.1",
-	"factorio_version": "0.14",
+	"factorio_version": "0.16",
 	"title": "Plintenfabriek",
-	"author": "Isemantics",
-	"contact": "info@isemantics.nl",
+	"author": "ISEMANTICS",
+	"contact": "https://www.isemantics.nl",
 	"homepage": "https://www.isemantics.nl",
-	"description": "Plinten produceren jonguh",
-	"dependencies": ["base >= 0.13.0"]
+	"description": "Who controls the plints, controls the world",
+	"dependencies": ["base >= 0.16.0"]
 }
